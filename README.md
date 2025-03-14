@@ -52,3 +52,9 @@ Embora sejam áreas distintas, UX e UI trabalham em conjunto. Um bom design de U
 
 ## Conclusão
 UX e UI são complementares e essenciais para o sucesso de produtos digitais. Enquanto o UX se concentra na experiência do usuário, o UI foca na aparência e na interação visual. Trabalhar em harmonia entre essas áreas é fundamental para criar produtos funcionais, acessíveis e visualmente atraentes.
+
+---
+
+## Exercícios
+
+- [Tipografia][https://www.figma.com/design/Wj8BT9rZAuDAu2SRmhq1A3/Tipografia?node-id=0-1&t=VVl8787aLgkTMFPs-1]
