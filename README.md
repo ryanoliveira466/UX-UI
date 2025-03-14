@@ -57,6 +57,6 @@ UX e UI são complementares e essenciais para o sucesso de produtos digitais. En
 
 ## Exercícios
 
-[Tipografia](https://www.figma.com/design/Wj8BT9rZAuDAu2SRmhq1A3/Tipografia?node-id=0-1&t=VVl8787aLgkTMFPs-1)
-[Redesign](https://www.figma.com/design/gLA3eY2hxGuonus4oyN9PZ/Site-Jamilin-kkkkkkk?t=VVl8787aLgkTMFPs-1)
+- [Tipografia](https://www.figma.com/design/Wj8BT9rZAuDAu2SRmhq1A3/Tipografia?node-id=0-1&t=VVl8787aLgkTMFPs-1)
+- [Redesign](https://www.figma.com/design/gLA3eY2hxGuonus4oyN9PZ/Site-Jamilin-kkkkkkk?t=VVl8787aLgkTMFPs-1)
 
